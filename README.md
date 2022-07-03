@@ -2,6 +2,7 @@
 
 
 ## k8s 
+https://kubernetes.io/
 - jib - kaniko - kpt - skaffold - minikube - kOps - kubespray
 - cloudpods
 
